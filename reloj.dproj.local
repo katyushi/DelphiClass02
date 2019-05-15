@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/05/15 11:30:19.972,=C:\Users\hugo lazzari\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 11:54:19.313,C:\Users\hugo lazzari\Documents\gitRepos\DelphiClass02\relogioDespertador.pas=C:\Users\hugo lazzari\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 11:54:19.313,C:\Users\hugo lazzari\Documents\gitRepos\DelphiClass02\relogioDespertador.dfm=C:\Users\hugo lazzari\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/15 11:54:31.925,C:\Users\hugo lazzari\Documents\gitRepos\DelphiClass02\reloj.dproj=C:\Users\hugo lazzari\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
